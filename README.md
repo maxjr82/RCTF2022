@@ -1,7 +1,7 @@
 # RCTF 2022 Winter School
 
 ![python version](https://img.shields.io/badge/python-3.7%2C3.8-blue?logo=python)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 Welcome to the repository of the Machine Learning lecture given at the winter school
 of the Réseau Français de Chimie Théorique (RCTF) held from 17-28 January 2022. This 
