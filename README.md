@@ -1,4 +1,4 @@
-# RCTF 2021 Winter School
+# RCTF 2022 Winter School
 
 Welcome to the repository of the Machine Learning lecture given at the winter school
 of the Réseau Français de Chimie Théorique (RCTF) held from 17-28 January 2022. This 
