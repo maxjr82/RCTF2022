@@ -1,5 +1,8 @@
 # RCTF 2022 Winter School
 
+![python version](https://img.shields.io/badge/python-3.7%2C3.8-blue?logo=python)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
 Welcome to the repository of the Machine Learning lecture given at the winter school
 of the Réseau Français de Chimie Théorique (RCTF) held from 17-28 January 2022. This 
 repository includes the slides of the lecture about "Introduction to Supervised Machine 
@@ -43,6 +46,8 @@ The following libraries are requested for the tutorial:
 - Specialized packages:
 
   - mendeleev
+
+The Jupyter notebook tutorial can be also executed in [Google Colab](https://colab.research.google.com/).
 
 ## References
 
